@@ -24,4 +24,5 @@ public class FirstUniqueCharacterInAString {
             }
         Arrays.sort(s.toCharArray());
         return 0;
-   
+    }
+}

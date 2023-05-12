@@ -1,4 +1,4 @@
-package y2023.leetcode.dsalgochallenge.Day1;
+package y2023.leetcode.dsalgochallenge_level1.Day1;
 
 import java.util.*;
 

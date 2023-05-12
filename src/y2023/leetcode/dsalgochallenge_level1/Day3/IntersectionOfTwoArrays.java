@@ -57,4 +57,5 @@ public class IntersectionOfTwoArrays {
             }
         }
         return Arrays.copyOfRange(nums1, 0, k);
-   
+    }
+}
