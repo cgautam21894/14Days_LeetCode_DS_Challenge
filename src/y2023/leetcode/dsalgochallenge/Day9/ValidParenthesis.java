@@ -1,4 +1,4 @@
-package y2023.leetcode.dsalgochallenge_level1.Day9;
+package y2023.leetcode.dsalgochallenge.Day9;
 
 import java.util.*;
 
@@ -80,4 +80,5 @@ public class ValidParenthesis {
         }
 
         return stack.isEmpty();
-   
+    }
+}

@@ -1,4 +1,4 @@
-package y2023.leetcode.dsalgochallenge_level1.Day5;
+package y2023.leetcode.dsalgochallenge.Day5;
 
 import java.util.*;
 
@@ -168,3 +168,6 @@ public class ValidSudoku {
         }
         return true;
     }
+
+
+}

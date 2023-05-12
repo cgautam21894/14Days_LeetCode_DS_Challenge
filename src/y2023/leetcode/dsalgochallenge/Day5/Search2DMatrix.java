@@ -1,4 +1,4 @@
-package y2023.leetcode.dsalgochallenge_level1.Day5;
+package y2023.leetcode.dsalgochallenge.Day5;
 
 public class Search2DMatrix {
     static int arr[][] = {{1, 3, 5, 7}, {10, 11, 16, 20}, {23, 30, 34, 60}};
@@ -31,4 +31,5 @@ public class Search2DMatrix {
             }
         }
         return true;
-   
+    }
+}

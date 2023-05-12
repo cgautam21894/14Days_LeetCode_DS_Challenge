@@ -1,4 +1,4 @@
-package y2023.leetcode.dsalgochallenge_level1.Day3;
+package y2023.leetcode.dsalgochallenge.Day3;
 
 import java.util.*;
 
@@ -57,4 +57,5 @@ public class IntersectionOfTwoArrays {
             }
         }
         return Arrays.copyOfRange(nums1, 0, k);
-   
+    }
+}

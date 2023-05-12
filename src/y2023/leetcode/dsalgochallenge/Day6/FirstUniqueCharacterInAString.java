@@ -1,4 +1,4 @@
-package y2023.leetcode.dsalgochallenge_level1.Day6;
+package y2023.leetcode.dsalgochallenge.Day6;
 
 import java.util.*;
 
@@ -24,4 +24,5 @@ public class FirstUniqueCharacterInAString {
             }
         Arrays.sort(s.toCharArray());
         return 0;
-   
+    }
+}
